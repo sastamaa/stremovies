@@ -1,13 +1,14 @@
 {
-  "name": "jamovies-addon",
-  "version": "1.2.5",
+  "name": "stremio-basic-addon",
+  "version": "1.0.0",
+  "description": "A basic Stremio add-on with custom movies and series catalog",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.8",
-    "stremio-addon-sdk": "^1.6.10",
-    "@movie-web/providers": "github:sussy-code/providers"
+    "stremio-addon-sdk": "^1.1.0"
   }
 }
