@@ -1,9 +1,6 @@
-# JaMovies Stremio Addons
-![JaMovies logo](https://i.imgur.com/QhZlCx6.jpg)
-
 ## Description
 
-JaMovies is a Stremio addon that provides a variety of movies and TV series across different genres. This addon is designed to deliver a smooth and enjoyable viewing experience for Stremio users.
+Stremio addon that provides a variety of movies and TV series across different genres. This addon is designed to deliver a smooth and enjoyable viewing experience for Stremio users.
 
 ## Features
 
